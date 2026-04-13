@@ -43,6 +43,4 @@ Below is the Tableau dashboard showing funnel performance, drop-offs, and channe
 - Focus on **high-converting regions** for targeted marketing  
 
 ---
-
-## 📸 Dashboard
-![Dashboard](dashboard.png)
+board.png)
