@@ -1,26 +1,48 @@
-# E-commerce Funnel Analysis Dashboard
+# E-commerce Funnel Analysis – User Journey Optimization
 
-## Project Overview
-This project analyzes user behavior across an e-commerce funnel to identify drop-off points and improve conversion rates.
+## Overview
+This project analyzes user behavior across an e-commerce funnel to identify drop-off points and optimize conversion rates across different stages of the user journey.
 
-## Objective
-To understand where users drop in the funnel and identify opportunities to improve performance.
-
-## Tools Used
-- SQL
-- Tableau
+---
 
 ## Key Insights
-- Highest drop-off at Product → Cart (~60%)
-- Google drives highest conversion (~23%)
-- France & India show strong performance
-- Checkout → Purchase drop is low → high intent users
+- Significant drop-off (~60%) observed at **Product → Cart** stage  
+- **Google** drives the highest conversion (~23%) among all channels  
+- Strong performance observed from **France and India**  
+- Low drop-off at **Checkout → Purchase** indicates high purchase intent  
+
+---
+
+## Dashboard
+Below is the Tableau dashboard showing funnel performance, drop-offs, and channel insights:
+
+![Dashboard](dashboard/dashboard.png)
+
+---
+
+## Funnel Stages Analyzed
+- Home → Product  
+- Product → Cart  
+- Cart → Checkout  
+- Checkout → Purchase  
+
+---
+
+## Approach
+- Transformed raw event-level data into **session-level funnel metrics using SQL**  
+- Calculated **conversion rates and drop-off percentages** across funnel stages  
+- Analyzed performance across **channels and geographies**  
+- Built an interactive **Tableau dashboard** to visualize user journey  
+
+---
 
 ## Business Recommendations
-- Improve product page experience
-- Optimize add-to-cart flow
-- Invest in high-performing channels like Google
-- Focus on high-converting regions
+- Improve **product page experience** to reduce drop-off  
+- Optimize **Add-to-Cart flow**  
+- Invest more in **high-performing channels (Google)**  
+- Focus on **high-converting regions** for targeted marketing  
 
-## 📸 Dashboard Preview
+---
+
+## 📸 Dashboard
 ![Dashboard](dashboard.png)
