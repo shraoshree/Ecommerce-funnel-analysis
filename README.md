@@ -42,4 +42,5 @@ Below is the Tableau dashboard showing funnel performance, drop-offs, and channe
 - Invest more in **high-performing channels (Google)**  
 - Focus on **high-converting regions** for targeted marketing  
 
-ard.png)
+---
+
