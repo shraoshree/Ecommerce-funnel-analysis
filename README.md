@@ -16,7 +16,7 @@ This project analyzes user behavior across an e-commerce funnel to identify drop
 ## Dashboard
 Below is the Tableau dashboard showing funnel performance, drop-offs, and channel insights:
 
-!![Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
